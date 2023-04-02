@@ -1,0 +1,9 @@
+pyqt6
+openai
+SpeechRecognition
+pyaudio
+keyboard
+elevenlabslib
+pydub
+ffmpeg
+ffmpeg-python
